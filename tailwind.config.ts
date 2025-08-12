@@ -17,7 +17,13 @@ const config: Config = {
           500: '#0070F3',
           600: '#2F6FEB',
         },
+        red: {
+          100: '#afafaf'
+        }
       },
+      screens: {
+        asdf: '120rem'
+      }
     },
     keyframes: {
       shimmer: {
